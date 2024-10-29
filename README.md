@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Houssem</h1>
-<h3 align="center">👨‍💻 Software Engineer | Passionate about Mobile Development | Expert in Native and Cross-Platform Applications 🌍📱</h3>
+<h3 align="center">:
+
+👨‍💻 Software Engineer | Passionate about Mobile and Web Development | Expert in Native, Cross-Platform,and Full Stack Development 🌍📱💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
