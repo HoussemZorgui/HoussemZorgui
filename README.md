@@ -1,6 +1,10 @@
-<a href="https://www.linkedin.com/in/kajadhav">
-   <img src="li_cover.png" alt="Kaushik Jadhav Cover" height="250px"/>
+<a href="https://ibb.co/5RbYzH4">
+   <img src="https://i.ibb.co/z4q8Lvx/Blue-white-minimal-linkedin-profile-cover-image.png" 
+        alt="Blue-white-minimal-linkedin-profile-cover-image" 
+        height="250px" 
+        border="0"/>
 </a>
+
 
 
 # <a href="https://kajadhav.me/">Hey, I'm Houssem Zorgui <a/>
