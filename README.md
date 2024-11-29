@@ -51,10 +51,7 @@
       <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
       <br>C
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
+   
   </tr>
   <tr>
     <td align="center" width="96">
@@ -65,10 +62,7 @@
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
-      <br>R
-    </td>
+  
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
       <br>Dart
