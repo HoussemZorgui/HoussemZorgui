@@ -81,111 +81,112 @@
 </table>
 
 
+
+
 ### Front-End Frameworks
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
       <br>Angular
     </td>
-  
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="65" height="65" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=threejs" alt="icon" width="65" height="65" />
       <br>Three.JS
     </td>
-    <tr>
-    </tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="65" height="65" />
       <br>Redux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
-      <br>Jquery
+      <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
+      <br>jQuery
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="HTML" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="HTML" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
       <br>SASS
     </td>
   </tr>
 </table>
 
+
+
+
+
 ### Back-End Frameworks
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="65" height="65" />
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="65" height="65" />
       <br>Flask
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
       <br>.NET
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
       <br>Spring
     </td>
-   
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
       <br>Node.JS
     </td>
-    <tr>
-    </tr>
+  </tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
       <br>Express.JS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
       <br>Nginx
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="65" height="65" />
       <br>Redis
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="HTML" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="HTML" />
-      <br>PyTorch
     </td>
   </tr>
 </table>
+
+
+
+
+
 
 ### Database
 <table>
