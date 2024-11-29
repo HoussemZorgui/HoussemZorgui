@@ -35,10 +35,7 @@
         <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
-      <br>Ruby
-    </td>
+  
     <tr>
     </tr>
     <td align="center" width="96">
@@ -107,14 +104,7 @@
         <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
       <br>Angular
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
-      <br>Wordpress
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
-      <br>Vue.JS
-    </td>
+  
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="65" height="65" />
       <br>GraphQL
@@ -173,10 +163,7 @@
         <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
       <br>Spring
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rails" alt="icon" width="65" height="65" />
-      <br>Ruby on Rails
-    </td>
+   
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
       <br>Node.JS
@@ -235,10 +222,7 @@
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
       <br>Firebase
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/microsoft-sql-server-logo.svg" alt="icon" width="65" height="65" />
-      <br>SQL Server
-    </td>
+   
     <tr>
     </tr>
 </table>
