@@ -14,82 +14,72 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
       <br>SQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-  
-    <tr>
-    </tr>
+  </tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="65" height="65" />
       <br>Kotlin
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="65" height="65" />
       <br>Swift
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    <tr>
-    </tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="HTML" />
-      <br>Typescript
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="dart" />
+      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
       <br>R
-    </td> 
+    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
       <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="dart" />
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       <br>Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="dart" />
-      <br>Scala
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="dart" />
-      <br>Lua
     </td>
   </tr>
 </table>
+
 
 ### Front-End Frameworks
 <table>
