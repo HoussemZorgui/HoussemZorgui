@@ -11,18 +11,10 @@
 
 
 ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://personal-portfolio1-tcbg.onrender.com)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/engineer-houssem-zorgui)
+[![google-devs](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/HoussemZorguiDev)
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]([https://kajadhav.me](https://personal-portfolio1-tcbg.onrender.com))
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kajadhav/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kaushikjadhav01)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaushikjadhav01)
-[![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kaushikjadhav01)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kajadhav@ncsu.edu)
-[![codesignal](https://img.shields.io/badge/CodeSignal-1062FB?style=for-the-badge&logo=codesignal&logoColor=white)](https://app.codesignal.com/profile/kaushik_j_vtc)
-[![google-scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=codesignal&logoColor=white)](https://scholar.google.com/citations?user=iRYcFi0AAAAJ)
-[![daily-dev](https://img.shields.io/badge/Daily.Dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/kaushikjadhav01)
-[![google-devs](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/kaushikjadhav01)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21890981/kaushik-jadhav)
 
 
 ## 🛠️ Skills
