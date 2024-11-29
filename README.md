@@ -1,19 +1,10 @@
-<a href="https://ibb.co/5RbYzH4">
-   <img src="https://i.ibb.co/z4q8Lvx/Blue-white-minimal-linkedin-profile-cover-image.png" 
-        alt="Blue-white-minimal-linkedin-profile-cover-image" 
-        height="250px" 
-        border="0"/>
-</a>
+
 
 
 
 # <a href="https://kajadhav.me/">Hey, I'm Houssem Zorgui <a/>
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://personal-portfolio1-tcbg.onrender.com)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/engineer-houssem-zorgui)
-[![google-devs](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/HoussemZorguiDev)
 
 
 
