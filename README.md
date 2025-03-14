@@ -13,6 +13,11 @@ I also have expertise in **back-end development** using **Node.js, Express.js, a
 ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![Kotlin](https://skillicons.dev/icons?i=kotlin)  
 ![Swift](https://skillicons.dev/icons?i=swift) ![Dart](https://skillicons.dev/icons?i=dart) ![TypeScript](https://skillicons.dev/icons?i=ts) ![PHP](https://skillicons.dev/icons?i=php)
 
+### 📱 Mobile App Development
+![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react)  
+![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Dart](https://skillicons.dev/icons?i=dart)
+
+
 ### 🌐 Front-End Development
 ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Redux](https://skillicons.dev/icons?i=redux)  
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![CSS](https://skillicons.dev/icons?i=css)
@@ -25,9 +30,6 @@ I also have expertise in **back-end development** using **Node.js, Express.js, a
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)  
 ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Firebase](https://skillicons.dev/icons?i=firebase) ![SQL Server](https://skillicons.dev/icons?i=mssql)
 
-### 📱 Mobile App Development
-![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react)  
-![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Dart](https://skillicons.dev/icons?i=dart)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Jenkins](https://skillicons.dev/icons?i=jenkins)  
@@ -36,7 +38,7 @@ I also have expertise in **back-end development** using **Node.js, Express.js, a
 ---
 
 ## 📫 Connect with Me
-🔹 **Portfolio:** [kajadhav.me](https://kajadhav.me/)  
+🔹 **Portfolio:** [Personal-Portfolio](https://personal-portfolio1-tcbg.onrender.com/)  
 🔹 **LinkedIn:** [Houssem Zorgui](https://www.linkedin.com/in/engineer-houssem-zorgui/)  
 🔹 **GitHub:** [HoussemZorgui](https://github.com/HoussemZorgui/)  
 🔹 **Email:** houssemzorgui10@gmail.com  
