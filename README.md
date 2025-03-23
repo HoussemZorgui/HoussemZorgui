@@ -9,31 +9,14 @@ I also have expertise in **back-end development** using **Node.js, Express.js, a
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![Kotlin](https://skillicons.dev/icons?i=kotlin)  
-![Swift](https://skillicons.dev/icons?i=swift) ![Dart](https://skillicons.dev/icons?i=dart) ![TypeScript](https://skillicons.dev/icons?i=ts) ![PHP](https://skillicons.dev/icons?i=php)
-
-### 📱 Mobile App Development
-![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react)  
-![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Dart](https://skillicons.dev/icons?i=dart)
-
-
-### 🌐 Front-End Development
-![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Redux](https://skillicons.dev/icons?i=redux)  
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![CSS](https://skillicons.dev/icons?i=css)
-
-### ⚙️ Back-End Development
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring)  
-![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![.NET](https://skillicons.dev/icons?i=dotnet)
-
-### 🗄️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)  
-![SQLite](https://skillicons.dev/icons?i=sqlite) ![Firebase](https://skillicons.dev/icons?i=firebase) ![SQL Server](https://skillicons.dev/icons?i=mssql)
-
-
-### ☁️ DevOps & Cloud
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Jenkins](https://skillicons.dev/icons?i=jenkins)  
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+| 💻 Programming Languages | 📱 Mobile Development | 🌐 Front-End | ⚙️ Back-End | 🗄️ Databases | ☁️ DevOps & Cloud |
+|--------------------------|----------------------|--------------|------------|--------------|-----------------|
+| ![Python](https://skillicons.dev/icons?i=python) | ![Flutter](https://skillicons.dev/icons?i=flutter) | ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![AWS](https://skillicons.dev/icons?i=aws) |
+| ![Java](https://skillicons.dev/icons?i=java) | ![React Native](https://skillicons.dev/icons?i=react) | ![Angular](https://skillicons.dev/icons?i=angular) | ![Express.js](https://skillicons.dev/icons?i=express) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![JavaScript](https://skillicons.dev/icons?i=js) | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) | ![Redux](https://skillicons.dev/icons?i=redux) | ![Spring](https://skillicons.dev/icons?i=spring) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) |
+| ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![Dart](https://skillicons.dev/icons?i=dart) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Django](https://skillicons.dev/icons?i=django) | ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) |
+| ![Swift](https://skillicons.dev/icons?i=swift) |  | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Flask](https://skillicons.dev/icons?i=flask) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) |
+| ![Dart](https://skillicons.dev/icons?i=dart) |  | ![CSS](https://skillicons.dev/icons?i=css) | ![.NET](https://skillicons.dev/icons?i=dotnet) | ![SQL Server](https://skillicons.dev/icons?i=mssql) |  |
 
 ---
 
@@ -45,4 +28,4 @@ I also have expertise in **back-end development** using **Node.js, Express.js, a
 
 ---
 
-✨ _Passionate about building innovative mobile applications and scalable back-end solutions._  ---
+✨ _Passionate about building innovative mobile applications and scalable back-end solutions._  
